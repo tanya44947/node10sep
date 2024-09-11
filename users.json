@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "first_name": "Vikki",
+    "last_name": "Bosward",
+    "email": "vbosward0@ox.ac.uk",
+    "gender": "Female"
+  },
+  {
+    "id": 2,
+    "first_name": "Silvanus",
+    "last_name": "Louthe",
+    "email": "slouthe1@google.ru",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "first_name": "Imojean",
+    "last_name": "Pullar",
+    "email": "ipullar2@exblog.jp",
+    "gender": "Female"
+  },
+  {
+    "id": 4,
+    "first_name": "Angelita",
+    "last_name": "Shoulder",
+    "email": "ashoulder3@nasa.gov",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "first_name": "Zilvia",
+    "last_name": "Crebott",
+    "email": "zcrebott4@phoca.cz",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "first_name": "Eve",
+    "last_name": "MacGowan",
+    "email": "emacgowan5@naver.com",
+    "gender": "Female"
+  },
+  {
+    "id": 7,
+    "first_name": "Jarad",
+    "last_name": "Paradis",
+    "email": "jparadis6@un.org",
+    "gender": "Male"
+  },
+  {
+    "id": 8,
+    "first_name": "Bobby",
+    "last_name": "Castelin",
+    "email": "bcastelin7@parallels.com",
+    "gender": "Female"
+  },
+  {
+    "id": 9,
+    "first_name": "Odessa",
+    "last_name": "Murrigan",
+    "email": "omurrigan8@admin.ch",
+    "gender": "Female"
+  },
+  {
+    "id": 10,
+    "first_name": "Bat",
+    "last_name": "Gonnely",
+    "email": "bgonnely9@nydailynews.com",
+    "gender": "Male"
+  },
+  {
+    "id": 11,
+    "first_name": "Tanya",
+    "last_name": "verma",
+    "email": "tanyaverma4444@gmail.com",
+    "gender": "Female"
+  }
+]
